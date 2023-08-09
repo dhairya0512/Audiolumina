@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Add individual preference items here -->
+
+    <PreferenceCategory android:title="General Settings">
+        <EditTextPreference
+            android:key="pref_username"
+            android:title="Username"
+            android:summary="Enter your username"
+            android:defaultValue="John Doe"/>
+
+        <CheckBoxPreference
+            android:key="pref_notifications"
+            android:title="Enable Notifications"
+            android:summary="Receive notifications" />
+
+        <ListPreference
+            android:key="pref_language"
+            android:title="Language"
+            android:summary="Select your preferred language"
+            android:entries="@array/language_entries"
+            android:entryValues="@array/language_entries"
+            android:defaultValue="en" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Display Settings">
+        <SwitchPreference
+            android:key="pref_dark_mode"
+            android:title="Dark Mode"
+            android:summary="Enable dark mode" />
+
+        <SeekBarPreference
+            android:key="pref_font_size"
+            android:title="Font Size"
+            android:summary="Adjust the font size"
+            android:defaultValue="14" />
+    </PreferenceCategory>
+</PreferenceScreen>

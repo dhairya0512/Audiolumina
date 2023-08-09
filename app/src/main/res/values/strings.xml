@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string-array name="language_entries">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Gujarati</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
