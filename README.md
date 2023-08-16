@@ -28,27 +28,27 @@ Go to the link: [click here](https://drive.google.com/file/d/1rBO3_d1AYvkhyWdqgP
 
 ## FAQ
 
-#### What is SoundSync FlashAlert?
+#### What is Audiolumina FlashAlert?
 
-SoundSync FlashAlert is an Android application designed to provide a visual notification system through the synchronization of the device's flashlight with detected sound events. It allows users to receive visual cues whenever the sound intensity crosses a user-defined threshold.
+Audioluminais an Android application designed to provide a visual notification system through the synchronization of the device's flashlight with detected sound events. It allows users to receive visual cues whenever the sound intensity crosses a user-defined threshold.
 
-#### How does SoundSync FlashAlert work?
+#### How does Audioluminawork?
 
 The app uses the device's microphone to capture real-time sound input. When the sound level surpasses the set threshold, the app triggers the device's flashlight to turn on and off in sync with the detected sound's intensity, creating a visually engaging response to the sound.
 
 #### What is the purpose of SoundSync FlashAlert?
 
-SoundSync FlashAlert is particularly useful in situations where audible notifications might go unnoticed due to noise or other environmental factors. It offers an alternative visual cue that enhances the user's awareness of sound events, making it valuable for individuals with hearing impairments, loud environments, or scenarios where audio alerts are not feasible.
+Audioluminais are particularly useful in situations where audible notifications might go unnoticed due to noise or other environmental factors. It offers an alternative visual cue that enhances the user's awareness of sound events, making it valuable for individuals with hearing impairments, loud environments, or scenarios where audio alerts are not feasible.
 
 #### Can I customize the threshold for activating the flashlight?
 
 Yes, the app allows users to adjust the threshold level according to their preferences. This customization ensures that the flashlight activates only when the sound reaches the desired intensity, preventing unnecessary activation.
 
-#### Is SoundSync FlashAlert energy-efficient?
+#### Is Audioluminaenergy-efficient?
 
 Absolutely. The app was developed with energy efficiency in mind. It employs optimization techniques to ensure that flashlight usage, while providing visual alerts, does not significantly drain the device's battery life.
 
-#### Can I use SoundSync FlashAlert in noisy environments?
+#### Can I use Audioluminain noisy environments?
 
 Yes, the app is designed precisely for such scenarios. In loud environments where audio notifications might go unnoticed, the visual cues provided by the flashlight synchronization can effectively convey the presence of sound events.
 
@@ -60,12 +60,13 @@ The duration of flashlight activation is automatically adjusted to match the dur
 
 The app employs real-time audio processing techniques to achieve accurate synchronization between the detected sound and the flashlight activation. However, some minor variations may occur due to device-specific factors.
 
-#### How does SoundSync FlashAlert work?
+#### How does Audioluminawork?
 
 The app uses the device's microphone to capture real-time sound input. When the sound level surpasses the set threshold, the app triggers the device's flashlight to turn on and off in sync with the detected sound's intensity, creating a visually engaging response to the sound.
 
-#### How does SoundSync FlashAlert work?
+#### How does Audioluminawork?
 
 The app uses the device's microphone to capture real-time sound input. When the sound level surpasses the set threshold, the app triggers the device's flashlight to turn on and off in sync with the detected sound's intensity, creating a visually engaging response to the sound.
+
 
 
